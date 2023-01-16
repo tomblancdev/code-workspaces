@@ -2,7 +2,7 @@
 
 ## PowerShell Issues 
 
-Use this into the project folder 
+Use this command into the project folder as administrator.
 ```PS1
 Set-ExecutionPolicy Unrestricted -Force
 ```
